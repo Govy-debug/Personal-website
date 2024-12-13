@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Govan Okwero - Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="GovPic.jpg" alt="Govan Okwero" class="profile-pic">
+        <h1>Govan Okwero</h1>
+        <p>Mass Communication Graduate & Security Professional</p>
+    </header>
+    <main>
+        <section id="personal-info">
+            <h2>Personal Information</h2>
+            <ul>
+                <li><strong>Name:</strong> Govan Okwero</li>
+                <li><strong>Address:</strong> P.O BOX 13400 - 00100 Nairobi</li>
+                <li><strong>Email:</strong> amondigovan@gmail.com</li>
+                <li><strong>Phone:</strong> +254726114646</li>
+                <li><strong>WhatsApp:</strong> +971524622352</li>
+                <li><strong>Date of Birth:</strong> 24th Feb. 1988</li>
+                <li><strong>Sex:</strong> Male</li>
+                <li><strong>Nationality:</strong> Kenyan</li>
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Educational Background</h2>
+            <ul>
+                <li><strong>2009-2011:</strong> Multimedia University College of Kenya - Diploma in Mass Communication (Credit)</li>
+                <li><strong>2004-2007:</strong> Chavakali High School - Kenya Certificate of Secondary Education (B-)</li>
+            </ul>
+        </section>
+        <section id="work-experience">
+            <h2>Work Experience</h2>
+            <div class="job">
+                <h3>Moonwalk Properties Dubai</h3>
+                <p><strong>Position:</strong> Doorman (Dec 2022 - April 2024)</p>
+                <ul>
+                    <li>Greeted and welcomed all visitors, tenants, and guests in a friendly manner.</li>
+                    <li>Monitored entry and exit of people and vehicles.</li>
+                    <li>Ensured safety and security of premises by addressing threats.</li>
+                    <!-- Add remaining responsibilities -->
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Center for Strategy and Management, Kenya</h3>
+                <p><strong>Position:</strong> Security and Alarms Response (Jan 2015 - Dec 2020)</p>
+                <ul>
+                    <li>Patrolled and secured the area.</li>
+                    <li>Monitored and analysed CCTV footage.</li>
+                    <li>Protected company assets from theft, assault, and fire.</li>
+                    <!-- Add remaining responsibilities -->
+                </ul>
+            </div>
+            <!-- Add other job experiences -->
+        </section>
+        <section id="referees">
+            <h2>Referees</h2>
+            <ul>
+                <li><strong>Mr. John Otieno</strong> - Journalist and Mentor <br>Phone: 0736864116 <br>Email: otjpaul@gmail.com</li>
+                <li><strong>Swand Youseff</strong> - Admin Assistant, Moonwalk Properties <br>Phone: +971542694109</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Govan Okwero. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
